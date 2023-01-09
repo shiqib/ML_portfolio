@@ -1,5 +1,5 @@
 # Shiqi's Machine Learning Portfolio
-
+# These are some of machine learning project that I have finished.
 # [Project 1: Credit Card Fraud Detection](https://github.com/PlayingNumbers/ds_salary_proj) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
